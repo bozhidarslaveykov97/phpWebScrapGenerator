@@ -1,0 +1,6 @@
+.outline-element {
+	border: 3px dashed #bc2828;
+}
+.outline-element-clicked {
+	border: 3px dashed #94bc28;
+}
